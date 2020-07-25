@@ -1,0 +1,19 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "name": "iPhone 10",
+            "price": 65000
+        },
+        {
+            "id": 2,
+            "name": "iPad Mini",
+            "price": 45000
+        },
+        {
+            "id": 3,
+            "name": "Macbook Pro",
+            "price": 125000
+        }
+    ]
+}
